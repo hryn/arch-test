@@ -8,10 +8,10 @@ defineProps<{
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      Created a project with 
+      Created with 
       <a href="https://vite.dev/" target="_blank" rel="noopener">Vite</a>,
       <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>,
-      <a href="https://aws.amazon.com/" target="_blank" rel="noopener">AWS Environment (EC2, API Gateway Websocket, DynamoDB, and Amplify)</a>
+      <a href="https://aws.amazon.com/" target="_blank" rel="noopener">AWS Environment (Lambda, API Gateway Websocket, DynamoDB, and Amplify)</a>
     </h3>
   </div>
 </template>

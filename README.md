@@ -37,9 +37,7 @@
 - Photos: id: uuid, user_id: uuid, file_url: varchar, status: enum['pending', 'approved', 'rejected'], notes: text, created_at: timestamp, review_by: uuid, review_at: timestamp
 
 
-## 🏁 Database Questions <a name = "getting_started"></a>
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+## 🏁 Database Questions <a name = "database"></a>
 
 ### Level 1
 
@@ -94,7 +92,7 @@ Rewrite using Async/Await
 
 ### Level 3-4
 Create a real-time chat between two windows; using web sockets, vuejs and typescript.
-[Go to project directory](/quiz/level-2-async.ts) or visit [https://](https://google.com)
+[Go to project directory](/chat-app/) or visit [https://archipelago.hryn.fun](https://archipelago.hryn.fun/)
 
 
 ## 🧐 Vue.js Questions <a name = "vue"></a>
@@ -151,9 +149,7 @@ Tell me all the performance best practices you can think of - start with the mos
 
 ## 🎉 Golang <a name = "golang"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+Words Frequency [> Go to project directory](/go/main.go)
 
 ## 🔧 Tools Rating <a name = "tools"></a>
 

@@ -11,7 +11,7 @@ defineProps<{
       Created a project with 
       <a href="https://vite.dev/" target="_blank" rel="noopener">Vite</a>,
       <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>,
-      <a href="https://aws.amazon.com/" target="_blank" rel="noopener">AWS Environment (EC2, API Gateway Websocket, and DynamoDB)</a>
+      <a href="https://aws.amazon.com/" target="_blank" rel="noopener">AWS Environment (EC2, API Gateway Websocket, DynamoDB, and Amplify)</a>
     </h3>
   </div>
 </template>

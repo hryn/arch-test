@@ -1,8 +1,8 @@
-function delay(ms: number) {
+function delay(ms: number): Promise<string> {
   return new Promise( resolve => setTimeout(resolve, ms))
 }
 
-function alert(str: string) {
+function alert(str: string): void {
   console.log(str)
 }
 
